@@ -2,7 +2,7 @@
 #include <conio.h>
 
 void main (){
-	printf ("olá mundo");
+	printf ("ola mundo");
 	system ("pause");
 	
 	
