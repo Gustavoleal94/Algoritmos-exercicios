@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <conio.h>
 
-	printf ("olï¿½ mundo");
+void main (){
+	printf ("olá mundo");
+	system ("pause");
 	
 	
 }
